@@ -62,8 +62,14 @@ section{
     font-size: 1.8rem;
 }
 
+.btn a{
+
+  color: var(--yellow)
+
+}
+
 .btn:hover{
-    background:var(--yellow);
+    background:black;
 }
 
 .heading{
